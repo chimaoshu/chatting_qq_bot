@@ -1,0 +1,2 @@
+# chatting_qq_bot
+基于腾讯云智能闲聊API和Nonebot框架的聊天QQ bot
